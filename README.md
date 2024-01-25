@@ -1,5 +1,6 @@
 # Zero Test Bench Software Stack
 Author: Cristian Bicheru
+
 For questions, feel free to reach out to `c.bicheru0@gmail.com`.
 
 ## Introduction
