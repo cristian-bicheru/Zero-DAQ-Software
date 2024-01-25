@@ -1,0 +1,1 @@
+LIB_VERSION_STRING = "v1.0"

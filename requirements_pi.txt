@@ -1,0 +1,11 @@
+pyzmq
+numpy
+scipy
+pint
+adafruit-blinka
+adafruit-circuitpython-max31855
+adafruit-circuitpython-bitbangio
+adafruit-circuitpython-tca9548a
+cedargrove-nau7802
+RPi.GPIO
+psutil

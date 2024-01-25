@@ -1,0 +1,6 @@
+pyzmq
+dearpygui
+numpy
+scipy
+pint
+psutil
